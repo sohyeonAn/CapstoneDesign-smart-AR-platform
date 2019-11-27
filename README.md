@@ -3,7 +3,7 @@
 
 
 # Quick start
-This is a quick start guide for running this program.
+This is a quick start guide for running program.
 
 ※ To start this program, [Unity](https://unity3d.com/kr/get-unity/download) and [Nodejs](https://nodejs.org/en/download/) should be installed first .
 
